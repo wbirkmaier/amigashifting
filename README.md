@@ -1,4 +1,4 @@
-# Amiga Bit Shifting
+# Amiga Shifting
 ## Amiga 1000 and Amiga A1010 3.5" Gotek Drive Mount STL File
 
 This was created to give the gotek a stealth look in the Amiga 1000 and 1010 drive when printing with a matching color. No cutting or case modification is needed. In fact with no USB key installed, the case looks stock at first. If you get a slim nano type drive, it is very stealth when in use.
