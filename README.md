@@ -1,5 +1,5 @@
 # Amiga Bit Shifting
-## Amiga 1000 and Amiga A1010 3.5" Gotek Drive Mount STL File.
+## Amiga 1000 and Amiga A1010 3.5" Gotek Drive Mount STL File
 
 ![3D Rendering of Amiga 1000 and A1010 Drive](assets/amiga1000-1010gotek.png)
 
