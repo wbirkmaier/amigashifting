@@ -1,7 +1,7 @@
 # Amiga Bit Shifting
-Amiga 1000 and Amiga A1010 3.5" Gotek Drive Mount STL File.
+##Amiga 1000 and Amiga A1010 3.5" Gotek Drive Mount STL File.
 
-## Needed Parts
+### Needed Parts
 
 - Standard OLED Screen, you can get them online at various sellers. 
 -- It is a 0.91 inch 128x32 I2C IIC Serial OLED LCD Screen Module 4-PIN DC 3.3V 5V.
