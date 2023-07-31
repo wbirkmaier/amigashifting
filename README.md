@@ -16,12 +16,12 @@ Jumpers are placed as per the pictures.
 
 *This is based on the work of https://www.thingiverse.com/thing:2098110*
 
-This work is under the: 
+Please see the LICENSE file for details, what this means is you may download the works and share them with others as long as you credit me, but you can’t change the work in any way or use my work commercially.
+
 #### Attribution-NonCommercial-NoDerivatives 4.0 International
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 `[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)`
 
-Please see the LICENSE file for details, what this means is you may download the works and share them with others as long as you credit me, but you can’t change the work in any way or use my work commercially.
 
 
 
